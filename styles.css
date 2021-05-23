@@ -1,0 +1,17 @@
+    div{
+        background-color: lightgrey;
+        width: 400px;
+        border: 15px black;
+        padding: 50px;
+        align-items: center;
+        position: absolute;
+    }
+    footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        color: dodgerblue;
+        text-align: center;
+        background-color:#33353d;
+    }
